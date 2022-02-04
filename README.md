@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @starnoux
-- 👀 I’m interested in 🌱
+- 👀 I’m a geneticist interested in 🌱
 - 🌱 I’m currently learning python
 
 <!---
